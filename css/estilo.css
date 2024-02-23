@@ -1,0 +1,26 @@
+*{
+    margin: 25px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif; background-color: rgb(124, 96, 58);
+}
+h1{
+    padding: 10px;
+    border: 15px;
+    border-style: dashed;
+    border-radius: 15px;
+    color: rgb(147, 91, 199);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p{
+    color: cadetblue;
+    text-align: justify; /*Hace que todo entre de costado a costado*/
+    background-color: aqua;
+    border-radius: 15px;
+}
+img{
+    width: 30%;
+}
